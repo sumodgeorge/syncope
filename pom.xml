@@ -33,7 +33,7 @@ under the License.
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>34</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <url>https://syncope.apache.org/</url>
@@ -464,7 +464,7 @@ under the License.
     <wicket.version>10.5.0</wicket.version>
     <wicketstuff.version>10.5.0</wicketstuff.version>
     <wicket-jqueryui.version>10.0.0-M1</wicket-jqueryui.version>
-    <wicket-bootstrap.version>7.0.10</wicket-bootstrap.version>
+    <wicket-bootstrap.version>7.0.11</wicket-bootstrap.version>
     <wicket-jquery-selectors.version>4.0.4</wicket-jquery-selectors.version>
     <wicket-spring-boot.version>4.0.0</wicket-spring-boot.version>
 
@@ -2248,10 +2248,10 @@ under the License.
                 <year>${year}</year>
                 <numbered>true</numbered>
                 <icons>font</icons>
-                <pagenums />
-                <idprefix />
+                <pagenums/>
+                <idprefix/>
                 <idseparator>-</idseparator>
-                <allow-uri-read />
+                <allow-uri-read/>
               </attributes>
             </configuration>
             <executions>
