@@ -33,7 +33,7 @@ under the License.
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>34</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <url>https://syncope.apache.org/</url>
@@ -471,7 +471,7 @@ under the License.
     <antlr4.version>4.13.2</antlr4.version>
 
     <curator.version>5.8.0</curator.version>
-    <zookeeper.version>3.9.3</zookeeper.version>
+    <zookeeper.version>3.9.4</zookeeper.version>
 
     <zonky.embedded-postgres.version>2.1.0</zonky.embedded-postgres.version>
     <zonky.embedded-postgres-binaries.version>17.5.0</zonky.embedded-postgres-binaries.version>
@@ -2248,10 +2248,10 @@ under the License.
                 <year>${year}</year>
                 <numbered>true</numbered>
                 <icons>font</icons>
-                <pagenums />
-                <idprefix />
+                <pagenums/>
+                <idprefix/>
                 <idseparator>-</idseparator>
-                <allow-uri-read />
+                <allow-uri-read/>
               </attributes>
             </configuration>
             <executions>
