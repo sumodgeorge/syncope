@@ -33,7 +33,7 @@ under the License.
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>34</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <url>https://syncope.apache.org/</url>
@@ -411,7 +411,7 @@ under the License.
     <connid.kafka.version>1.0.0</connid.kafka.version>
     <connid.ldup.version>0.1.0</connid.ldup.version>
 
-    <cxf.version>4.1.2</cxf.version>
+    <cxf.version>4.1.4</cxf.version>
     <bouncycastle.version>1.80</bouncycastle.version>
     <nimbus-jose-jwt.version>10.3</nimbus-jose-jwt.version>
 
@@ -2248,10 +2248,10 @@ under the License.
                 <year>${year}</year>
                 <numbered>true</numbered>
                 <icons>font</icons>
-                <pagenums />
-                <idprefix />
+                <pagenums/>
+                <idprefix/>
                 <idseparator>-</idseparator>
-                <allow-uri-read />
+                <allow-uri-read/>
               </attributes>
             </configuration>
             <executions>
