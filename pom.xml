@@ -33,7 +33,7 @@ under the License.
     <groupId>org.apache</groupId>
     <artifactId>apache</artifactId>
     <version>34</version>
-    <relativePath />
+    <relativePath/>
   </parent>
 
   <url>https://syncope.apache.org/</url>
@@ -918,7 +918,7 @@ under the License.
       <dependency>
         <groupId>org.apache.tika</groupId>
         <artifactId>tika-core</artifactId>
-        <version>3.2.0</version>
+        <version>3.2.2</version>
       </dependency>
 
       <dependency>
@@ -2248,10 +2248,10 @@ under the License.
                 <year>${year}</year>
                 <numbered>true</numbered>
                 <icons>font</icons>
-                <pagenums />
-                <idprefix />
+                <pagenums/>
+                <idprefix/>
                 <idseparator>-</idseparator>
-                <allow-uri-read />
+                <allow-uri-read/>
               </attributes>
             </configuration>
             <executions>
